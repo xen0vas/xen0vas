@@ -1,4 +1,4 @@
-<h2 align="center">👋 xen0vas</h2>
+<h2 align="center">👋 Xenofon</h2>
 
 ### Blog Posts and Articles
 
