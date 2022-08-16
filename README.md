@@ -1,6 +1,6 @@
 <h2 align="center">👋 Xeno</h2>
 
-### Blog Posts and Articles
+### Blog Posts
 
 - Available at [xen0vas.github.io](https://xen0vas.github.io)                                                                                                                                                             
 ### Contributions 
