@@ -5,7 +5,7 @@
 - Available at [xen0vas.github.io](https://xen0vas.github.io)                                                                                                                                                             
 
 <a href="https://xen0vas.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xen0vas&show_icons=true&theme=dark&locale=en" alt="xen0vas" />
+  <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=xen0vas&show_icons=true&theme=dark&locale=en" alt="xen0vas" /-->
 </a>
 
 <!--
